@@ -1,6 +1,6 @@
 function About() {
 return(
-  <h1>test</h1>
+  <h1 className='mb-auto'>test</h1>
 )
 }
 

@@ -18,9 +18,6 @@ function Nav() {
               <Link to="/" className={`text-white ${location.pathname === '/' ? 'font-bold' : ''} hover:text-blue-400 transition duration-300`}>Home</Link>
             </li>
             <li>
-              <Link to="/about" className={`text-white ${location.pathname === '/about' ? 'font-bold' : ''} hover:text-blue-400 transition duration-300`}>About</Link>
-            </li>
-            <li>
               <Link to="/portfolio" className={`text-white ${location.pathname === '/portfolio' ? 'font-bold' : ''} hover:text-blue-400 transition duration-300`}>Portfolio</Link>
             </li>
             <li>

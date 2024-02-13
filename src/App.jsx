@@ -8,8 +8,11 @@ function App() {
     <>
       <main className='sm:flex'>
         <Nav />
-        <Outlet className='mb-auto'/>
+        <div className='max-sm:h-screen'>
+          <Outlet />
+        </div>
       </main>
+
       <Footer />
     </>
   );
