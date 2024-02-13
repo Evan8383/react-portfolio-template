@@ -5,6 +5,8 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 import App from './App.jsx'
 
+// About Me, Portfolio, Contact, and Resume
+
 const router = createBrowserRouter([
   {
     path: '/',
@@ -17,6 +19,18 @@ const router = createBrowserRouter([
       {
         path: '/about',
         element: <About />
+      },
+      {
+        path: '/portfolio',
+        element: <Portfolio />
+      },
+      {
+        path: '/contact',
+        element: <Contact />
+      },
+      {
+        path: '/resume',
+        element: <Resume />
       }
     ]
   }
