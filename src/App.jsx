@@ -6,9 +6,9 @@ function App() {
 
   return (
     <>
-      <main className='flex'>
+      <main className='sm:flex'>
         <Nav />
-        <Outlet />
+        <Outlet className='mb-auto'/>
       </main>
       <Footer />
     </>

@@ -2,7 +2,7 @@
 
 export default function Footer() {
   return (
-    <footer className="flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t sm:border-t-0">
+    <footer className="max-sm:absolute max-sm:bottom-0 flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t sm:border-t-0">
       <div className="space-y-1">
         <h3 className="text-base font-medium tracking-wider">Where to find me</h3>
         <div className="flex items-center gap-2 text-xs">
