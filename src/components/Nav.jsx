@@ -7,7 +7,7 @@ function Nav() {
 
   return (
     <>
-      <div className="h-fit sm:h-screen sm:flex sm:flex-col justify-between ">
+      <div className="sm:flex sm:flex-col justify-between ">
         <nav className="bg-gray-800 p-4 sm:max-w-fit flex-grow sm:rounded-r">
           <h1 className="text-2xl text-white font-extrabold mb-8">Evan Bennett</h1>
           <button onClick={() => setIsOpen(!isOpen)} className="sm:hidden block text-white">

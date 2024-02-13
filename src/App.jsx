@@ -8,9 +8,7 @@ function App() {
     <>
       <main className='sm:flex'>
         <Nav />
-        <div className='max-sm:h-screen'>
-          <Outlet />
-        </div>
+        <Outlet />
       </main>
 
       <Footer />
