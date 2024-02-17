@@ -10,7 +10,7 @@ export default function About() {
             <div className="text-center">
               <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">Hi, I'm Evan Bennett</h1>
               <p className="max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                I'm a passionate and creative Web Developer with a strong focus on frontend technologies.
+                I'm a passionate and creative Web Developer with a focus on frontend technologies.
               </p>
             </div>
             <div className="mx-auto w-full max-w-sm space-y-2 text-center">
