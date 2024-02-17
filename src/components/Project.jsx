@@ -20,8 +20,11 @@ export default function Project(props) {
         <p className="text-sm leading-relaxed mt-2.5 mb-3.5 text-gray-500">
           {props.description}
         </p>
-        <a onClick={() => window.open(props.link)} className="text-sm font-medium underline">
-          View Details
+        <a onClick={() => window.open(props.link)} className="text-sm font-medium underline cursor-pointer">
+          View Project
+        </a>
+        <a onClick={() => window.open(props.repo)} className="text-sm font-medium underline cursor-pointer ml-4">
+          View Repo
         </a>
       </div>
     </div>
