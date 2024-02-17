@@ -1,4 +1,4 @@
-import Resume from '../assets/Resume.png';
+import ResumeDownload from '../assets/Resume.png';
 
 export default function Resume() {
   return (
@@ -43,7 +43,7 @@ export default function Resume() {
       <div className="flex justify-end p-4 md:p-6">
         <a
           className="inline-flex h-8 items-center rounded-md border border-gray-200 border-gray-200 bg-white px-4 text-sm font-medium shadow-sm gap-1.5"
-          href={Resume}
+          href={ResumeDownload}
           download="EvanBennettResume.png"
 
         >
