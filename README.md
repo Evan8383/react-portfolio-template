@@ -29,8 +29,16 @@ Whether you're just starting out and looking to create your first portfolio or y
 
 ## Links
 
-- [Live Demo](#) <!-- Add your live demo link here -->
+- [Live Demo](https://main--incandescent-sprite-954bc6.netlify.app/)
 - [GitHub Repository](https://github.com/Evan8383/react-portfolio-template)
+
+## Screenshots
+
+Here is a screenshot of my project:
+
+![Screenshot Description](./src/assets/Screenshot.png)
+![Screenshot Description](./src/assets/Screenshot1.png)
+
 
 ## Technology Used
 
