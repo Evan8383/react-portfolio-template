@@ -22,7 +22,7 @@ function Contact() {
   };
 
   return (
-    <div className="p-6 h-screen">
+    <div className="p-6 h-screen m-auto">
       <h1 className="text-2xl font-bold mb-4">Contact Me</h1>
       <form className="flex flex-col gap-4" onSubmit={handleSubmit}>
         <label className="flex flex-col">
