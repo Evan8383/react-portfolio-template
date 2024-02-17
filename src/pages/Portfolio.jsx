@@ -5,7 +5,7 @@ import API from "../assets/API.png";
 import PWA from "../assets/PWA.png";
 import Finance from "../assets/Finance.png";
 import Weather from "../assets/Weather.png";
-import NFL from "../assets/NFL.png";
+import NFLimage from "../assets/NFL.png";
 
 
 function Portfolio() {
@@ -48,7 +48,7 @@ function Portfolio() {
     {
       title: "NFL Stat Tracker",
       description: "An engaging web project centered around NFL statistics and teams. This project is thoughtfully organized into three HTML files, each serving a distinct purpose, along with JavaScript code that powers the web application's functionality.",
-      image: NFL,
+      image: NFLimage,
       link: "https://charleswgillespie.github.io/95-96-Bulls-NFL-Stats-and-GeoLocator",
       repo: "https://github.com/CharlesWGillespie/95-96-Bulls-NFL-Stats-and-GeoLocator"
     }
