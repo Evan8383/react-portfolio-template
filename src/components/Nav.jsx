@@ -15,7 +15,7 @@ function Nav() {
           </button>
           <ul className={`flex max-sm:right-0 max-sm:top-10 max-sm:p-14 max-sm:rounded-lg max-sm:absolute bg-gray-800 max-sm:text-center text-left mt-4 flex-col flex-wrap space-y-4 ${isOpen ? 'block' : 'hidden'} sm:block w-fit`}>
             <li>
-              <Link to="/" className={`text-white ${location.pathname === '/' ? 'font-bold' : ''} hover:text-blue-400 transition duration-300`}>Home</Link>
+              <Link to="/" className={`text-white ${location.pathname === '/' ? 'font-bold' : ''} hover:text-blue-400 transition duration-300`}>About Me</Link>
             </li>
             <li>
               <Link to="/portfolio" className={`text-white ${location.pathname === '/portfolio' ? 'font-bold' : ''} hover:text-blue-400 transition duration-300`}>Portfolio</Link>

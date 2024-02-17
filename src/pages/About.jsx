@@ -9,6 +9,7 @@ export default function About() {
           <div className="container flex flex-col items-center px-4 space-y-4 md:px-6">
             <div className="text-center">
               <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">Hi, I'm Evan Bennett</h1>
+              <img src="src\assets\avatar-svgrepo-com.svg" alt="Avatar" className='w-56 md:w-72 lg:w-96 m-auto p-6'/>
               <p className="max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 I'm a passionate and creative Web Developer with a focus on frontend technologies.
               </p>

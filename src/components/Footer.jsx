@@ -15,11 +15,11 @@ export default function Footer() {
         </div>
         <div className="flex items-center gap-2 text-xs">
           <GithubIcon className="h-4 w-4" />
-          <span>Bestgithub</span>
+          <a target="_blank" href="https://github.com/Evan8383">Evan8383</a>
         </div>
         <div className="flex items-center gap-2 text-xs">
           <LinkedinIcon className="h-4 w-4" />
-          <span>Best Linkedin</span>
+          <a href="https://www.linkedin.com/in/evan-bennett-931960129/" target="_blank">Evan Bennett</a>
         </div>
       </div>
     </footer>
