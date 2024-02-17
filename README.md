@@ -37,7 +37,7 @@ Whether you're just starting out and looking to create your first portfolio or y
 Here is a screenshot of my project:
 
 ![Screenshot Description](./src/assets/Screenshot.png)
-![Screenshot Description](./src/assets/Screenshot1.png)
+![Screenshot Description](./src/assets/Screenshot.png)
 
 
 ## Technology Used
